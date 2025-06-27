@@ -1,0 +1,4 @@
+../Core/Src/ILI9341_Touchscreen.c:60:10:TP_Read	3
+../Core/Src/ILI9341_Touchscreen.c:81:6:TP_Write	3
+../Core/Src/ILI9341_Touchscreen.c:102:9:TP_Read_Coordinates	5
+../Core/Src/ILI9341_Touchscreen.c:158:9:TP_Touchpad_Pressed	2
